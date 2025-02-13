@@ -295,12 +295,29 @@ async function applyTheme(themeData) {
             tailwindContainer.innerHTML = '';
         }
 
+        const firebaseContainer = document.getElementById('firebaseContainer');
+        if (themeData.colorTheme.firebase) {
+            firebaseContainer.innerHTML = `<img src="${themeData.colorTheme.firebase}" class="w-6 h-6">`;
+        } else {
+            firebaseContainer.innerHTML = '';
+        }
+
         const netContainer = document.getElementById('netContainer');
         if (themeData.colorTheme.net) {
             netContainer.innerHTML = `<img src="${themeData.colorTheme.net}" class="w-6 h-6">`;
         } else {
             netContainer.innerHTML = '';
         }
+
+
+        const freelanceContainer = document.getElementsByClassName('freelanceContainer');
+        Array.from(freelanceContainer).forEach(container => {
+            if (themeData.colorTheme.freelance) {
+                container.innerHTML = `<img src="${themeData.colorTheme.freelance}" alt="Logo de Freelance" class="max-w-full h-auto">`;
+            } else {
+                container.innerHTML = '';
+            }
+        });
 
         // Actualizar imagen del inicio
         const homeImage = document.getElementById('homeImage');

@@ -56,7 +56,11 @@
         "exp2_3": "Managed and optimized SQL databases, implementing complex queries to ensure data integrity and performance.",
         "exp2_4": "I used GitHub for version control, facilitating efficient collaboration and change management on projects.",
         "tiempo-experience2": "2022 - 2023",
-        "tiempo-experience3": "2024 - Presente"
+        "tiempo-experience3": "2024 - Present",
+        "exp3_1": "I developed a variety of desktop applications in Java, focusing on usability and code efficiency.",
+        "exp3_2": "I designed and developed dynamic websites using C# ASP.NET, ensuring advanced functionalities and an intuitive user experience.",
+        "exp3_3": "Managed and optimized SQL databases, implementing complex queries to ensure data integrity and performance.",
+        "exp3_4": "I used GitHub for version control, facilitating efficient collaboration and change management on projects."
     },
     "projects": {
         "title": "Projects",
@@ -65,7 +69,7 @@
         "info-project2": "Website that simplifies the recruitment of professional services by allowing clients to browse categories, review worker profiles and contact them directly. Workers can register their profile, receive and respond to specific requests, all with an intuitive design and efficient functionalities.",
         "info-project3": "Desktop application for Multirepuestos Boyacá: a sales system designed to optimize inventory control, manage suppliers and customers, and generate reports. It guarantees efficiency and security in the spare parts company.",
         "info-project4": "Web platform offering a wide section of classic and fun games Designed to provide instant entertainment and fun for all users.",
-        "info-project5": "It is an integrated platform for managing business activities, trading operations, sports betting and loan control, with robust tools for inventory management, online sales and financial tracking.",
+        "info-project5": "This is a personal project designed to manage and track my job applications efficiently. The application allows me to register job offers, update their status and organize all relevant information in one place.",
         "btn-project": "See all my projects"
     },
     "contact": {

@@ -194,6 +194,15 @@ async function applyTheme(themeData) {
             }
         });
 
+        const firebaseContainers = document.getElementsByClassName('firebase-container');
+        Array.from(firebaseContainers).forEach(container => {
+            if (themeData.colorTheme.firebaseProyect) {
+                container.innerHTML = `<img src="${themeData.colorTheme.firebaseProyect}" class="w-6 h-6">`;
+            } else {
+                container.innerHTML = '';
+            }
+        });
+
         const netContainer = document.getElementsByClassName('net-container');
         Array.from(netContainer).forEach(container => {
             if (themeData.colorTheme.netProyect) {

@@ -56,7 +56,11 @@
         "exp2_3": "Gestioné y optimicé bases de datos SQL, implementando consultas complejas para garantizar la integridad y el rendimiento de los datos.",
         "exp2_4": " Utilicé GitHub para el control de versiones, facilitando la colaboración eficiente y la gestión de cambios en los proyectos.",
         "tiempo-experience2": "2022 - 2023",
-        "tiempo-experience3": "2024 - Presente"
+        "tiempo-experience3": "2024 - Presente",
+        "exp3_1": "Actualmente utilizo Laravel y Angular para desarrollar sitios web dinámicos, garantizando funcionalidades avanzadas y una experiencia de usuario intuitiva.",
+        "exp3_2": "Implemento interfaces modernas y responsivas con Tailwind CSS y Flutter, mejorando la accesibilidad y la experiencia en múltiples dispositivos.",
+        "exp3_3": "Gestiono y Opimizo bases de datos en Firebase y SQL, asegurando su integridad y alto rendimiento consultas eficientes en la industria.",
+        "exp3_4": "Para el control de versiones y la colaboración en proyectos, utilizo GitHub, facilitando una gestión eficiente de los cambios."
     },
     "projects": {
         "title": "Proyectos",
@@ -65,7 +69,7 @@
         "info-project2": "Sitio web que simplifica la contratación de servicios profesionales al permitir a los clientes explorar categorías, revisar perfiles de trabajadores y contactarlos directamente. Los trabajadores pueden registrar su perfil, recibir y responder a solicitudes específicas, todo con un diseño intuitivo y funcionalidades eficientes.",
         "info-project3": "Aplicación de escritorio para Multirepuestos Boyacá: un sistema de ventas diseñado para optimizar el control de inventarios, gestionar proveedores y clientes, y generar informes. Garantiza eficiencia y seguridad en la empresa de repuestos.",
         "info-project4": "Plataforma web que ofrece una amplia sección de juegos clásicos y divertidos Diseñada para proporcionar entretenimiento instantáneo y diversión para todos los usuarios.",
-        "info-project5": "Es una plataforma integrada para gestionar actividades empresariales, operaciones de trading, apuestas deportivas y control de préstamos, con herramientas robustas para administrar inventarios, ventas en línea y seguimiento financiero.",
+        "info-project5": " Este es un proyecto personal diseñado para gestionar y hacer seguimiento a mis postulaciones a empleos de manera eficiente. La aplicación me permite registrar ofertas de trabajo, actualizar su estado y organizar toda la información relevante en un solo lugar. ",
         "btn-project": "Ver todos mis proyectos"
     },
     "contact": {
