@@ -58,7 +58,7 @@
         "tiempo-experience2": "2022 - 2023",
         "tiempo-experience3": "2024 - Presente",
         "exp3_1": "Actualmente utilizo Laravel y Angular para desarrollar sitios web dinámicos, garantizando funcionalidades avanzadas y una experiencia de usuario intuitiva.",
-        "exp3_2": "Implemento interfaces modernas y responsivas con Tailwind CSS y Flutter, mejorando la accesibilidad y la experiencia en múltiples dispositivos.",
+        "exp3_2": "Implemento interfaces modernas y responsivas con Tailwind CSS, mejorando la accesibilidad y la experiencia en múltiples dispositivos.",
         "exp3_3": "Gestiono y Opimizo bases de datos en Firebase y SQL, asegurando su integridad y alto rendimiento consultas eficientes en la industria.",
         "exp3_4": "Para el control de versiones y la colaboración en proyectos, utilizo GitHub, facilitando una gestión eficiente de los cambios."
     },
@@ -70,7 +70,8 @@
         "info-project3": "Aplicación de escritorio para Multirepuestos Boyacá: un sistema de ventas diseñado para optimizar el control de inventarios, gestionar proveedores y clientes, y generar informes. Garantiza eficiencia y seguridad en la empresa de repuestos.",
         "info-project4": "Plataforma web que ofrece una amplia sección de juegos clásicos y divertidos Diseñada para proporcionar entretenimiento instantáneo y diversión para todos los usuarios.",
         "info-project5": " Este es un proyecto personal diseñado para gestionar y hacer seguimiento a mis postulaciones a empleos de manera eficiente. La aplicación me permite registrar ofertas de trabajo, actualizar su estado y organizar toda la información relevante en un solo lugar. ",
-        "btn-project": "Ver todos mis proyectos"
+        "btn-project": "Ver todos mis proyectos",
+        "btn-return": "Volver"
     },
     "contact": {
         "title": "Contacto",
