@@ -302,13 +302,19 @@ async function applyTheme(themeData) {
             firebaseContainer.innerHTML = '';
         }
 
-        const netContainer = document.getElementById('netContainer');
-        if (themeData.colorTheme.net) {
-            netContainer.innerHTML = `<img src="${themeData.colorTheme.net}" class="w-6 h-6">`;
+        const flutterContainer = document.getElementById('flutterContainer');
+        if (themeData.colorTheme.firebase) {
+            flutterContainer.innerHTML = `<img src="${themeData.colorTheme.flutter}" class="w-6 h-6">`;
         } else {
-            netContainer.innerHTML = '';
+            flutterContainer.innerHTML = '';
         }
 
+        const supabaseContainer = document.getElementById('supabaseContainer');
+        if (themeData.colorTheme.firebase) {
+            supabaseContainer.innerHTML = `<img src="${themeData.colorTheme.supabase}" class="w-6 h-6">`;
+        } else {
+            supabaseContainer.innerHTML = '';
+        }
 
         const freelanceContainer = document.getElementsByClassName('freelanceContainer');
         Array.from(freelanceContainer).forEach(container => {

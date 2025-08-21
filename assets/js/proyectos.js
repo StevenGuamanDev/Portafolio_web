@@ -212,6 +212,24 @@ async function applyTheme(themeData) {
             }
         });
 
+          const flutterContainer = document.getElementsByClassName('flutter-container');
+        Array.from(flutterContainer).forEach(container => {
+            if (themeData.colorTheme.flutterProyect) {
+                container.innerHTML = `<img src="${themeData.colorTheme.flutterProyect}" class="w-6 h-6">`;
+            } else {
+                container.innerHTML = '';
+            }
+        });
+
+          const supabaseContainer = document.getElementsByClassName('supabase-container');
+        Array.from(supabaseContainer).forEach(container => {
+            if (themeData.colorTheme.supabaseProyect) {
+                container.innerHTML = `<img src="${themeData.colorTheme.supabaseProyect}" class="w-6 h-6">`;
+            } else {
+                container.innerHTML = '';
+            }
+        });
+
         updateLinkColors(themeData.colorTheme.hoverColor);
         updatePseudoElementColor(themeData.colorTheme.activeColor);
         const { elementColor, textColor3, hovContact, botoncolor, iconhov, iconcolor, cardExp, gradientText1, fondScroll } = themeData.colorTheme;

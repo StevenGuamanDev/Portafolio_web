@@ -18,7 +18,7 @@
     },
     "aboutme": {
         "title": "About me",
-        "texto_about_me": "I am a professional in software development, with a solid experience in creating robust applications and solutions. In addition, I have knowledge in the multimedia field, which allows me to effectively integrate graphical elements in the projects I develop. My focus is on developing innovative and functional solutions that meet the specific needs of clients and users. I consider myself empathetic, enthusiastic and proficient in teamwork, communication, problem solving, responsibility and proactivity. I enjoy learning from others and I am always looking to improve myself.",
+        "texto_about_me": "I am passionate about software development and enjoy turning ideas into useful web and mobile applications. I am currently a Junior Full Stack developer, technologist, and Software Engineering student. I am constantly learning, exploring new technologies, and growing with every project I take on.\n\n I consider myself curious, adaptable, and proactive, qualities that have allowed me to easily integrate into teams, take on new challenges, and propose creative solutions that bring real value to users. Beyond coding, I am motivated by the idea that every line I write can help solve problems and improve the lives of those who use the applications.",
         "title_2": "What I like?",
         "card1": "Read books",
         "card2": "Drawing",
@@ -56,11 +56,11 @@
         "exp2_3": "Managed and optimized SQL databases, implementing complex queries to ensure data integrity and performance.",
         "exp2_4": "I used GitHub for version control, facilitating efficient collaboration and change management on projects.",
         "tiempo-experience2": "2022 - 2023",
-        "tiempo-experience3": "2024 - Present",
-        "exp3_1": "I currently use Laravel and Angular to develop dynamic websites, ensuring advanced functionalities and an intuitive user experience.",
-        "exp3_2": "I implement modern and responsive interfaces with Tailwind CSS, improving accessibility and experience on multiple devices.",
-        "exp3_3": "I manage and optimize databases in Firebase and SQL, ensuring their integrity and high performance, efficient queries in the industry.",
-        "exp3_4": "For version control and project collaboration, I use GitHub, facilitating efficient change management."
+       "tiempo-experience3": "2024 - Present",
+       "exp3_1": "I currently use Laravel and Angular to develop dynamic websites, and Flutter to build cross-platform mobile applications with optimal performance.",
+       "exp3_2": "I implement modern and responsive interfaces with Tailwind CSS, improving accessibility and user experience across multiple devices.",
+       "exp3_3": "I manage and optimize databases in Supabase and SQL, ensuring integrity and high performance in efficient queries.",
+       "exp3_4": "For version control and project collaboration, I use GitHub, enabling efficient change management."
     },
     "projects": {
         "title": "Projects",
@@ -70,6 +70,7 @@
         "info-project3": "Desktop application for Multirepuestos Boyacá: a sales system designed to optimize inventory control, manage suppliers and customers, and generate reports. It guarantees efficiency and security in the spare parts company.",
         "info-project4": "Web platform offering a wide section of classic and fun games Designed to provide instant entertainment and fun for all users.",
         "info-project5": "This is a personal project designed to manage and track my job applications efficiently. The application allows me to register job offers, update their status and organize all relevant information in one place.",
+        "info-project6": " TV Box application developed in Flutter for a digital scoreboard. Compatible with Arduino, sensors, and other devices to automatically record throws. It allows you to keep score in real time, manage games with multiple players, and announce the winner. It includes narration of each score with audio effects, providing an interactive, modern, and entertaining experience.",
         "btn-project": "See all my projects",
         "btn-return": "Return"
     },
