@@ -42,19 +42,19 @@ function mostrarOcultarMenu() {
 }
 
 //Funcion descargar Curriculum
-document.addEventListener('DOMContentLoaded', function () {
-    document.querySelector('.cv_button').addEventListener('click', function (e) {
-        e.preventDefault();
-        var pdfUrl = './assets/pdf/currículum.pdf';
-        var link = document.createElement('a');
-        link.href = pdfUrl;
-        link.download = 'curriculum.pdf';
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
-        window.open(pdfUrl, '_blank');
-    });
-});
+// document.addEventListener('DOMContentLoaded', function () {
+//     document.querySelector('.cv_button').addEventListener('click', function (e) {
+//         e.preventDefault();
+//         var pdfUrl = './assets/pdf/currículum.pdf';
+//         var link = document.createElement('a');
+//         link.href = pdfUrl;
+//         link.download = 'curriculum.pdf';
+//         document.body.appendChild(link);
+//         link.click();
+//         document.body.removeChild(link);
+//         window.open(pdfUrl, '_blank');
+//     });
+// });
 
 // Obtener todas las secciones
 const sections = document.querySelectorAll('section');
