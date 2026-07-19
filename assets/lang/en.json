@@ -56,11 +56,17 @@
         "exp2_3": "Managed and optimized SQL databases, implementing complex queries to ensure data integrity and performance.",
         "exp2_4": "I used GitHub for version control, facilitating efficient collaboration and change management on projects.",
         "tiempo-experience2": "2022 - 2023",
-       "tiempo-experience3": "2024 - Present",
-       "exp3_1": "I currently use Laravel and Angular to develop dynamic websites, and Flutter to build cross-platform mobile applications with optimal performance.",
-       "exp3_2": "I implement modern and responsive interfaces with Tailwind CSS, improving accessibility and user experience across multiple devices.",
-       "exp3_3": "I manage and optimize databases in Supabase and SQL, ensuring integrity and high performance in efficient queries.",
-       "exp3_4": "For version control and project collaboration, I use GitHub, enabling efficient change management."
+        "tiempo-experience3": "2024 - Present",
+        "exp3_1": "I currently use Laravel and Angular to develop dynamic websites, and Flutter to build cross-platform mobile applications with optimal performance.",
+        "exp3_2": "I implement modern and responsive interfaces with Tailwind CSS, improving accessibility and user experience across multiple devices.",
+        "exp3_3": "I manage and optimize databases in Supabase and SQL, ensuring integrity and high performance in efficient queries.",
+        "exp3_4": "For version control and project collaboration, I use GitHub, enabling efficient change management.",
+        "post3": "IT Services Technician",
+        "tiempo-experience4": "2026 - Present",
+        "exp4_1": "Manage the company's IT infrastructure, providing first- and second-level technical support for users and corporate devices.",
+        "exp4_2": "Administer Microsoft 365 services (Outlook, Teams, OneDrive, and SharePoint), managing user accounts, permissions, licenses, and collaboration resources.",
+        "exp4_3": "Contribute to the maintenance of the corporate website built with React and participate in the development of enterprise applications using C#.",
+        "exp4_4": "Manage the company's IT asset inventory, perform hardware maintenance, document IT processes, and implement improvements to optimize IT operations."
     },
     "projects": {
         "title": "Projects",

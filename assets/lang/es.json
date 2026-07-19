@@ -60,7 +60,13 @@
         "exp3_1": "Actualmente utilizo Laravel y Angular para desarrollar sitios web dinámicos, y Flutter para crear aplicaciones móviles multiplataforma con un rendimiento óptimo.",
         "exp3_2": "Implemento interfaces modernas y responsivas con Tailwind CSS, mejorando la accesibilidad y la experiencia en múltiples dispositivos.",
         "exp3_3": "Gestiono y optimizo bases de datos en Supabase y SQL, asegurando su integridad y alto rendimiento en consultas eficientes.",
-        "exp3_4": "Para el control de versiones y la colaboración en proyectos, utilizo GitHub, facilitando una gestión eficiente de los cambios."
+        "exp3_4": "Para el control de versiones y la colaboración en proyectos, utilizo GitHub, facilitando una gestión eficiente de los cambios.",
+        "post3": "Técnico de Servicios TI",
+        "tiempo-experience4": "2026 - Presente",
+        "exp4_1": "Administro la infraestructura tecnológica de la empresa, brindando soporte técnico de primer y segundo nivel a usuarios y equipos corporativos.",
+        "exp4_2": "Gestiono los servicios de Microsoft 365 (Outlook, Teams, OneDrive y SharePoint), administrando usuarios, permisos, licencias y recursos de colaboración.",
+        "exp4_3": "Colaboro en el mantenimiento del sitio web corporativo en React y participo en el desarrollo de aplicaciones empresariales utilizando C#.",
+        "exp4_4": "Realizo la administración del inventario tecnológico, mantenimiento de equipos, documentación de procesos y ejecución de mejoras para optimizar la operación del área de TI."
     },
     "projects": {
         "title": "Proyectos",
